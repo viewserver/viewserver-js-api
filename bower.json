@@ -1,0 +1,22 @@
+{
+  "name": "viewserver-js-api",
+  "version": "1.1.15",
+  "main": "src/api.js",
+  "dependencies": {
+    "requirejs": "latest",
+    "angular": "1.4.x",
+    "augment": "~4.3.0"
+  },
+  "devDependencies": {
+    "long": "~3.0.0",
+    "protobuf": "~5.0.0",
+    "angular-mocks": "~1.4.x",
+    "jquery": "~2.1.1",
+    "bytebuffer": "~5.0.0",
+    "viewserver-protobuf": "https://github.com/viewserver/viewserver-protobuf.git",
+    "viewserver-protobuf-sql": "https://github.com/viewserver/viewserver-protobuf-sql.git"
+  },
+  "resolutions": {
+    "bytebuffer": "~5.0.0"
+  }
+}

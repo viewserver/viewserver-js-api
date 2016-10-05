@@ -1,0 +1,7 @@
+{
+	"hostname": "localhost",
+	"sourceDir": "src",
+	"buildDir": "dist",
+    "testDir": "test",
+	"livereloadPort": 35729
+}

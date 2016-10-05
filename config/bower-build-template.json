@@ -1,0 +1,11 @@
+{
+  "name": "viewserver-js-api",
+  "version": "<%= pkg.version %>",
+  "main": "<%= config.buildDir %>/api.min.js",
+  "dependencies": {
+    "requirejs": "latest",
+    "viewserver-protobuf": "https://github.com/viewserver/viewserver-protobuf.git",
+    "angular": "1.4.x",
+    "augment": "~4.3.0"
+  }
+}
